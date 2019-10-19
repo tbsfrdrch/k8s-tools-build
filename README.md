@@ -1,5 +1,7 @@
 # k8s-tools-build
 
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/tbsfrdrch/k8s-tools-build.svg)](https://cloud.docker.com/repository/docker/tbsfrdrch/k8s-tools-build/builds)
+
 An opinionated set of commands to support the CI build of tools built for k8s, all wrapped inside a single Docker image.
 
 Currently included are:
