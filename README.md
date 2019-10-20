@@ -11,4 +11,5 @@ Currently included are:
 * [curl](https://curl.haxx.se/)
 * [jq](https://stedolan.github.io/jq/)
 * [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
+* [ShellCheck](https://github.com/koalaman/shellcheck)
 * [yq](https://github.com/mikefarah/yq)
